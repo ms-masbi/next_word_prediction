@@ -83,9 +83,6 @@ $ python Output.py
 After that in command line you can enter the input for which you want to check the output.
 
 
-# NOW TO RUN THE GUI VERSION OF THE WORD_PREDICTOR
-
-![](word_predictor.png)
 
 ```sh
 $ cd ..
