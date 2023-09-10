@@ -74,7 +74,7 @@ _________________________________________________________________
 ![](model.png)
 
 
-# Now To run the Model keras_next_word_model.h5 run the Output.py file
+# Execution
 
 ```sh
 $ python Output.py
